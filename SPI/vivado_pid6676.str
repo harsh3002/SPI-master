@@ -167,3 +167,11 @@ selectMenu(PAResourceCommand.PACommandNames_AUTO_UPDATE_HIER, "Hierarchy Update"
 selectMenu(PAResourceCommand.PACommandNames_OPEN_FILE_WITH, "Open With"); // al (PAResourceCommand.PACommandNames_OPEN_FILE_WITH, Open With)
 selectCodeEditor("spi_master.v", 472, 309); // ad (spi_master.v)
 typeControlKey((HResource) null, "spi_master.v", 'c'); // ad (spi_master.v)
+// Elapsed time: 338 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources]", 3); // E (PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, spi_test (spi_test.v)]", 5, true, false, false, false, true, false); // E (PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE) - Popup Trigger - Node
+selectMenu(PAResourceCommand.PACommandNames_OPEN_FILE_WITH, "Open With"); // al (PAResourceCommand.PACommandNames_OPEN_FILE_WITH, Open With)
+selectMenuItem(PAResourceQtoS.SrcMenu_OPEN_SELECTED_SOURCE_FILES, "Open File"); // ao (PAResourceQtoS.SrcMenu_OPEN_SELECTED_SOURCE_FILES)
+typeControlKey((HResource) null, "spi_test.v", 'c'); // ad (spi_test.v)
+// Elapsed time: 41 seconds
+selectCodeEditor("spi_test.v", 617, 12); // ad (spi_test.v)
