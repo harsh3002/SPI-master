@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed May  1 12:06:48 2024
+# Process ID: 24888
+# Current directory: C:/Users/HARSHITH/Desktop/Verilog/SPI - Protocol/SPI
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21796 C:\Users\HARSHITH\Desktop\Verilog\SPI - Protocol\SPI\SPI.xpr
+# Log file: C:/Users/HARSHITH/Desktop/Verilog/SPI - Protocol/SPI/vivado.log
+# Journal file: C:/Users/HARSHITH/Desktop/Verilog/SPI - Protocol/SPI\vivado.jou
+# Running On: Harsh, OS: Windows, CPU Frequency: 2994 MHz, CPU Physical cores: 12, Host memory: 7968 MB
+#-----------------------------------------------------------
+start_guopopen_project {C:/Users/HARSHITH/Desktop/Verilog/SPI - Protocol/SPI/SPI.xprupupdate_compile_order -fileset sources_1
