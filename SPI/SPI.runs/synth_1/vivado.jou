@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Apr 30 23:03:26 2024
+# Process ID: 8536
+# Current directory: C:/Users/HARSHITH/Desktop/Verilog/SPI - Protocol/SPI/SPI.runs/synth_1
+# Command line: vivado.exe -log spi_master.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source spi_master.tcl
+# Log file: C:/Users/HARSHITH/Desktop/Verilog/SPI - Protocol/SPI/SPI.runs/synth_1/spi_master.vds
+# Journal file: C:/Users/HARSHITH/Desktop/Verilog/SPI - Protocol/SPI/SPI.runs/synth_1\vivado.jou
+# Running On: Harsh, OS: Windows, CPU Frequency: 2994 MHz, CPU Physical cores: 12, Host memory: 7968 MB
+#-----------------------------------------------------------
+source spi_master.tcl -notrace
